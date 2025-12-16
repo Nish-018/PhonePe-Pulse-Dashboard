@@ -32,7 +32,7 @@ Column chart representing total payment amount for selected year — showing ove
 5. State-wise Geo Distribution
 India map visualization displaying digital payment penetration across states with color-coded transaction density.
 
-🛠 Technologies Used
+🛠 Technologies Used: 
 Power BI
 DAX for data modelling
 Data transformation & visualization techniques
