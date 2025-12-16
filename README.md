@@ -1,6 +1,6 @@
 # PhonePe-Pulse-Dashboard
 This project presents an interactive Power BI dashboard built using the PhonePe Pulse dataset, showcasing digital payments insights across India. It highlights how payments are distributed by user, device brands, transaction type, states, and total monetary value.
-Dashboard Highlights
+Dashboard Highlights -
 Metric	Value
 Total Users: 206M
 CAGR:	150.85%
@@ -33,8 +33,8 @@ Column chart representing total payment amount for selected year — showing ove
 India map visualization displaying digital payment penetration across states with color-coded transaction density.
 
 🛠 Technologies Used: 
-Power BI
-DAX for data modelling
+Power BI,
+DAX for data modelling,
 Data transformation & visualization techniques
 
 📁 Applications
